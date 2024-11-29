@@ -1,3 +1,5 @@
+# Repositório CS50 - Exercícios de AI
+
 Este repositório contém os exercícios do curso CS50 - **Introdução à Inteligência Artificial**. Cada exercício está em uma branch separada para fácil acesso e visualização.
 
 ## Exercícios
